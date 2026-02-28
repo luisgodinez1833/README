@@ -1,5 +1,5 @@
 # Hello, I'm Luis Godinez (Louie)
-<a href="[https://linkedin.com"><img src="https://www.linkedin.com/in/luis-godinez1833/](https://www.linkedin.com/in/luis-godinez1833/)" /></a>
+<a href="[https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 Aspiring cybersecurity and network professional with hands-on experience in SOC labs, network monitoring, traffic analysis, and incident response. Passionate about threat detection, network defense, and securing infrastructure. Focused on building a career in security operations and network engineering.
