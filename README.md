@@ -50,7 +50,7 @@ Cybersecurity and network-focused professional working toward a Tier 1 SOC Analy
 
 ## Certifications
 
-![CompTIA Security+ (In Progress)](https://img.shields.io/badge/CompTIA_Security%2B-In_Progress-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-In_Progress-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
 ![Red Hat RH124](https://img.shields.io/badge/Red_Hat_RH124-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![B.S._Information_Systems_&_Technology](https://img.shields.io/badge/BS_Information_Systems_&_Technology-CSUSB-003DA5?style=for-the-badge&logo=academia&logoColor=white)
 
